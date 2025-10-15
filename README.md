@@ -66,5 +66,6 @@ Step 5: Play the picture.
 
 ## OUTPUT:
 
-<img width="1280" height="800" alt="Gemini_Generated_Image_kpwa95kpwa95kpwa" src="https://github.com/user-attachments/assets/8630a130-bcaf-4fee-9f13-a911cfa116f8" />
+<img width="1248" height="832" alt="Gemini_Generated_Image_owqguxowqguxowqg" src="https://github.com/user-attachments/assets/7d49f827-d9bb-4c0d-b283-8ec4ee2d4643" />
+
 
